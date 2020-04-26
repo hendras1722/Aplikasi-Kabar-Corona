@@ -1,4 +1,4 @@
-package com.cashsir;
+package com.kabarcorona;
 
 import android.app.Application;
 import android.content.Context;
